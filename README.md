@@ -9,7 +9,7 @@ https://packagecontrol.io/installation
 Step 1: Command Palette.
 Open the command palette.
 Win/Linux: ctrl+shift+p, Mac: cmd+shift+p.
-Type 'Install Package Control', press enter.
+Type *Install Package Control*, press enter.
 
 Step 2: Material Theme.
 Open the command palette.
