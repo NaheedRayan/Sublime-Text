@@ -2,11 +2,11 @@
 	"bootstrapped": true,
 	"installed_packages":
 	[
-		"Agila Theme",
+		
 		"Material Theme",
 		"Package Control",
 		"SublimeAStyleFormatter",
-		"Theme - Gravity",
+		
 	],
 	"in_process_packages":
 	[
