@@ -23,11 +23,10 @@ Win/Linux: ctrl+shift+p, Mac: cmd+shift+p.
 Type `Install Package Control`, press enter.
 Type `SublimeAStyleFormatter` , press enter.
 
-SublimeAStyleFormatter
-  ======================
 
-  SublimeAStyleFormatter is a simple code formatter plugin for Sublime Text 2.
-  It provides ability to format C, C++, C#, and Java files.
+### SublimeAStyleFormatter
+SublimeAStyleFormatter is a simple code formatter plugin for Sublime Text 2.
+It provides ability to format C, C++, C#, and Java files.
 
   Usage
   -----
