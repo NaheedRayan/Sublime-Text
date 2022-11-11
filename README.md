@@ -6,31 +6,29 @@ https://packagecontrol.io/installation
 
 
 
-Step 1: Command Palette.
+### Step 1: Command Palette.
 Open the command palette.
 Win/Linux: ctrl+shift+p, Mac: cmd+shift+p.
 Type `Install Package Control`, press enter.
 
-Step 2: Material Theme.
+### Step 2: Material Theme.
 Open the command palette.
 Win/Linux: ctrl+shift+p, Mac: cmd+shift+p.
 Type `Install Package Control`, press enter.
 Type `Material Theme` , press enter.
 
-Step 3: Formatter/linter.
+### Step 3: Formatter/linter.
 Open the command palette.
 Win/Linux: ctrl+shift+p, Mac: cmd+shift+p.
 Type `Install Package Control`, press enter.
 Type `SublimeAStyleFormatter` , press enter.
 
-
-### SublimeAStyleFormatter
+**SublimeAStyleFormatter**
 SublimeAStyleFormatter is a simple code formatter plugin for Sublime Text 2.
 It provides ability to format C, C++, C#, and Java files.
 
-  Usage
-  -----
-  ### Key Bindings
+  **Usage**
+  **Key Bindings**
   The default key bindings for this plugin:
 
   **Windows, Linux:**
@@ -38,6 +36,6 @@ It provides ability to format C, C++, C#, and Java files.
   + `ctrl+k, ctrl+f`: Format current selection
 
 
-Step 4:
+### Step 4:
 Go to preferences >  browse packages.
 Then overwrite the files.
